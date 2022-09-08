@@ -3489,6 +3489,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.ims.rcsconfig-V1.1-java \
     com.qti.dpmframework \
     dpmapi \
+    qti-telephony-common \
     vendor.qti.hardware.alarm-V1.0-java \
     manifest_android.hardware.drm@1.3-service.widevine \
     vendor.qti.gnss@4.0-service
